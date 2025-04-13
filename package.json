@@ -19,6 +19,8 @@
     "@radix-ui/react-switch": "^1.1.4",
     "@radix-ui/react-tooltip": "^1.2.0",
     "@stomp/stompjs": "^7.1.1",
+    "@zoralabs/coins-sdk": "^0.0.8",
+    "@zoralabs/protocol-sdk": "^0.13.5",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "lucide-react": "^0.487.0",
@@ -28,7 +30,8 @@
     "react-dom": "^19.0.0",
     "svix": "^1.64.0",
     "tailwind-merge": "^3.2.0",
-    "uuid": "^11.1.0"
+    "uuid": "^11.1.0",
+    "viem": "^2.26.3"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
